@@ -1,5 +1,16 @@
 ## Note
+## FRONTEND
+```bash
+$ cd to travel-test-frontend
 
+$ yarn install || $ npm i
+
+$ npm run dev
+
+$ npm run test
+
+```
+## BACKEND
 The database for the project is used in a docker container, so you will need tools to work with the docker
 
 ## Install dependencies
@@ -8,6 +19,8 @@ The database for the project is used in a docker container, so you will need too
 $ cd to travel-test-backend
 
 $ yarn install
+
+$ npm run test
 ```
 
 ## Start Postgres DB on docker container
