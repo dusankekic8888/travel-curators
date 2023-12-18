@@ -5,7 +5,7 @@ The database for the project is used in a docker container, so you will need too
 ## Install dependencies
 
 ```bash
-$ cd to travel-test-backend
+$ cd to project folder
 
 $ yarn install
 ```
